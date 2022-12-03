@@ -1,7 +1,6 @@
 with open("input.txt", "r") as f:
     lines = f.read().splitlines()
 
-ndx = 0
 elves = []
 total = 0
 for line in lines:
